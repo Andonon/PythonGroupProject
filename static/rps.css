@@ -1,0 +1,19 @@
+margin= 0px;
+padding= 0px;
+
+
+#WinArea{
+  background-color:blue;
+
+
+}
+
+#YouArea{
+  background-color: pink;
+
+
+}
+#ItArea{
+  background-color: red;
+  display: inline-block;
+}
